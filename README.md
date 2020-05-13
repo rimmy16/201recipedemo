@@ -1,7 +1,7 @@
 # 201recipedemo
 
-##Salsa 201recipe
+## Salsa 201recipe
 
--tomato
--onions
--etc
+- tomato
+- onions
+- etc
